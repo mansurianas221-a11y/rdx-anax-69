@@ -21,5 +21,13 @@
   "BannedHWIDs": {
     "EXAMPLE_BANNED_HWID": "Attempted Smali Bypass"
   },
-  "Keys": {}
+  "Keys": {
+    "ANAX": {
+      "hwid": "64DE35E7E5738FCC",
+      "expireDate": "2026-05-15",
+      "isBanned": false,
+      "banReason": "",
+      "userRank": "Supreme User"
+    }
+  }
 }
