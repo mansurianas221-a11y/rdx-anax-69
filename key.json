@@ -1,6 +1,6 @@
 {
   "AppConfig": {
-    "bannerText": "Waiting for Verification ⏳",
+    "bannerText": "",
     "getKeyText": "🔑 Get Key ↗️",
     "getKeyUrl": "https://t.me/dpmodsdialog",
     "imageUrl": "https://share.google/fTbn3l7cm7UKeZES9",
@@ -13,7 +13,7 @@
       "Hu",
       "Re"
     ],
-    "title": "MOD x RDX",
+    "title": "",
     "updateMsg": "New Update Available.",
     "updateRequired": false,
     "updateUrl": "https://t.me/dpmodsdi"
