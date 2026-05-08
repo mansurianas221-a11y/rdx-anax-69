@@ -1,9 +1,9 @@
 {
   "AppConfig": {
-    "bannerText": "Awaiting Authentication.",
+    "bannerText": "Waiting for Verification ⏳",
     "getKeyText": "🔑 Get Key ↗️",
     "getKeyUrl": "https://t.me/dpmodsdialog",
-    "imageUrl": "https://raw.githubusercontent.com/DPModsYT/firebasedemopanel/refs/heads/main/Firefly%2020260417084915.png",
+    "imageUrl": "https://share.google/fTbn3l7cm7UKeZES9",
     "loginBtnText": "AUTHENTICATE",
     "maintenanceMode": false,
     "maintenanceMsg": "DPMods server is temporarily down for maintenance.",
@@ -13,10 +13,10 @@
       "Hu",
       "Re"
     ],
-    "title": "DPMods Core",
-    "updateMsg": "New DPMods version available! Please update.",
+    "title": "MOD x RDX",
+    "updateMsg": "New Update Available.",
     "updateRequired": false,
-    "updateUrl": "https://t.me/dpmodsdialog"
+    "updateUrl": "https://t.me/dpmodsdi"
   },
   "BannedHWIDs": {
     "EXAMPLE_BANNED_HWID": "Attempted Smali Bypass"
